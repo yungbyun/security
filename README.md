@@ -15,7 +15,8 @@
 * 논문을 써보자. 
 
 ## 데이터 과학 놀이터, 캐글(머신러닝 오픈소스)
-* kaggle.com/yungbyun/
+* https://kaggle.com
+* https://kaggle.com/yungbyun
 
 
 
