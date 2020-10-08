@@ -17,6 +17,7 @@
 ## 데이터 과학 놀이터, 캐글(머신러닝 오픈소스)
 * https://kaggle.com
 * https://kaggle.com/yungbyun
+* https://www.kaggle.com/yungbyun/female-male-classification-original
 
 
 
