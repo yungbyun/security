@@ -19,5 +19,8 @@
 * https://kaggle.com/yungbyun
 * https://www.kaggle.com/yungbyun/female-male-classification-original
 
-
+## 강의(녹화)
+* 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
+* 02.성별 인식과 코드 추상화: https://youtu.be/cALnCdNVPls
+* 03.코드 재사용 방법: https://youtu.be/9FKUS8iAICo
 
