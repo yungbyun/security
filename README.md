@@ -14,10 +14,13 @@
 * 머신러닝 알고리즘으로 결과를 얻어보자.
 * 논문을 써보자. 
 
-## 데이터 과학 놀이터, 캐글(머신러닝 오픈소스)
+## 캐글
 * https://kaggle.com
 * https://kaggle.com/yungbyun
-* https://www.kaggle.com/yungbyun/female-male-classification-original
+
+## 성별 분류하기
+* (원본) https://www.kaggle.com/yungbyun/female-male-classification-original
+* (작업) 
 
 ## 강의(녹화)
 * 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
