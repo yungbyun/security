@@ -15,8 +15,7 @@
 * 준비한 머신러닝 코드로 결과를 얻어보자.
 * 논문을 써보자. 
 
-## 캐글
-* https://kaggle.com
+## 강의자료(문서, 코드)
 * https://kaggle.com/yungbyun
 
 ## 성별 분류하기
