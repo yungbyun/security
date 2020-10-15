@@ -16,8 +16,6 @@
 * 논문을 써보자. 
 
 ## 강의자료(코드)
-* https://kaggle.com/yungbyun
-
 ### 성별 분류하기
 * (원본) https://www.kaggle.com/yungbyun/female-male-classification-original
 * (작업) 
