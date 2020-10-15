@@ -25,7 +25,7 @@
 * https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
 ## 추상화한 함수들(라이브러리)
-* https://www.kaggle.com/yungbyun/functions-for-ml/edit
+* https://www.kaggle.com/yungbyun/functions-for-ml/
 
 ## 강의(녹화)
 * 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
