@@ -15,10 +15,10 @@
 * 준비한 머신러닝 코드로 결과를 얻어보자.
 * 논문을 써보자. 
 
-## 강의자료(문서, 코드)
+## 강의자료(코드)
 * https://kaggle.com/yungbyun
 
-## 성별 분류하기
+### 성별 분류하기
 * (원본) https://www.kaggle.com/yungbyun/female-male-classification-original
 * (작업) 
 
