@@ -24,14 +24,14 @@
 ### 붓꽃(Iris) 인식
 * https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
+### 추상화한 함수들(라이브러리)
+* https://www.kaggle.com/yungbyun/functions-for-ml/
+
 ### 침입탐지
 * 정확도 99.9% 침입탐지 시스템: https://www.kaggle.com/abhaymudgal/intrusion-detection-system-accuracy-99-9
 
 ### 신용카드 사기인식
 * Anomaly detection: https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
-
-### 추상화한 함수들(라이브러리)
-* https://www.kaggle.com/yungbyun/functions-for-ml/
 
 ## 강의(녹화)
 * 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
