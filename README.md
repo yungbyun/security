@@ -18,7 +18,7 @@
 ## 강의자료(코드)
 ### 성별 분류하기
 * (원본) https://www.kaggle.com/yungbyun/female-male-classification-original
-* (작업) 
+* (작업) https://www.kaggle.com/yungbyun/female-male-classification-work/
 
 ## 강의(녹화)
 * 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
