@@ -21,10 +21,10 @@
 * (원본) https://www.kaggle.com/yungbyun/female-male-classification-original
 * (작업) https://www.kaggle.com/yungbyun/female-male-classification-work/
 
-## 붓꽃(Iris) 인식
+### 붓꽃(Iris) 인식
 * https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
-## 추상화한 함수들(라이브러리)
+### 추상화한 함수들(라이브러리)
 * https://www.kaggle.com/yungbyun/functions-for-ml/
 
 ## 강의(녹화)
