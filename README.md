@@ -33,8 +33,10 @@
 ### 신용카드 사기인식
 * Anomaly detection: https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
 
-## 강의(녹화)
-* 01.캐글과 데이터 사이언스: https://youtu.be/f6aPWNTB-z4
-* 02.성별 인식과 코드 추상화: https://youtu.be/cALnCdNVPls
-* 03.코드 재사용 방법: https://youtu.be/9FKUS8iAICo
+## 강의(녹화 New!)
+* 1.머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
+* 2.코드 추상화와 함수1: https://youtu.be/tFl6pjywwoc
+* 3.코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
+* 4.데이터 분석과 분류: https://youtu.be/MBKDtPl565k
+* 5.쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
 
