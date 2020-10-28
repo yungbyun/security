@@ -27,6 +27,9 @@
 ### 추상화한 함수들(라이브러리)
 * https://www.kaggle.com/yungbyun/functions-for-ml/
 
+### 식물 생장 예측
+* 
+
 ### 침입탐지
 * 정확도 99.9% 침입탐지 시스템: https://www.kaggle.com/abhaymudgal/intrusion-detection-system-accuracy-99-9
 
