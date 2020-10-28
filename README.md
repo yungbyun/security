@@ -28,7 +28,8 @@
 * https://www.kaggle.com/yungbyun/functions-for-ml/
 
 ### 식물 생장 예측
-* 
+> 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
+> https://www.kaggle.com/yungbyun/plant-diary-original/
 
 ### 침입탐지
 * 정확도 99.9% 침입탐지 시스템: https://www.kaggle.com/abhaymudgal/intrusion-detection-system-accuracy-99-9
