@@ -50,3 +50,5 @@
 > 7. 분류/예측 연습하기, 그리고 다중 타켓 예측
 > 8. 머신러닝과 보안 
 
+## 메모
+> * https://www.youtube.com/watch?v=Q8l0Vip5YUw&list=PLn8UhjgdBL_5FudV4SYSiPlCY3eMZVRVH&index=67
