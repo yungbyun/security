@@ -25,7 +25,8 @@
 > * https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
 ### 추상화한 함수들(라이브러리)
-> * https://www.kaggle.com/yungbyun/functions-only (함수만 들어있음) 이를 이용하여 식물생장(예측/인식), 성별(인식/예측), 붓꽃(인식/예측) 코딩을 직접 해보자. 
+> * https://www.kaggle.com/yungbyun/functions-only (함수만 들어있음) 
+> * 이를 이용하여 식물생장(예측/인식), 성별(인식/예측), 붓꽃(인식/예측) 코딩을 직접 해보자. 
 
 ### 식물 생장 예측
 > * 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
