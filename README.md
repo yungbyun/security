@@ -51,4 +51,4 @@
 > 8. 머신러닝과 보안 
 
 ## 메모
-> * https://www.youtube.com/watch?v=Q8l0Vip5YUw&list=PLn8UhjgdBL_5FudV4SYSiPlCY3eMZVRVH&index=67
+> * 베이즈 정리: https://www.youtube.com/watch?v=Q8l0Vip5YUw&list=PLn8UhjgdBL_5FudV4SYSiPlCY3eMZVRVH&index=67
