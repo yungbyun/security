@@ -41,12 +41,12 @@
 > * https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
 
 ## 강의(녹화 New!)
-> * 1.머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
-> * 2.코드 추상화와 함수1: https://youtu.be/tFl6pjywwoc
-> * 3.코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
-> * 4.데이터 분석과 분류: https://youtu.be/MBKDtPl565k
-> * 5.쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
-> * 6.예측과 코드 추상화
-> * 7.분류/예측 연습하기, 그리고 다중 타켓 예측
-> * 8.머신러닝과 보안 
+> 1.머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
+> 2.코드 추상화와 함수1: https://youtu.be/tFl6pjywwoc
+> 3.코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
+> 4.데이터 분석과 분류: https://youtu.be/MBKDtPl565k
+> 5.쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
+> 6.예측과 코드 추상화
+> 7.분류/예측 연습하기, 그리고 다중 타켓 예측
+> 8.머신러닝과 보안 
 
