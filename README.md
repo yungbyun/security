@@ -38,7 +38,7 @@
 
 ### 신용카드 사기인식
 > * Anomaly detection 
-> * https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
+> * https://www.kaggle.com/yungbyun/anomaly-detection-credit-card-fraud-analysis/
 
 ## 강의(녹화 New!)
 > 1. 머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
