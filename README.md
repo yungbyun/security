@@ -46,9 +46,10 @@
 > 3. 코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
 > 4. 데이터 분석과 분류: https://youtu.be/MBKDtPl565k
 > 5. 쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
-> 6. 예측과 코드 추상화
-> 7. 분류/예측 연습하기, 그리고 다중 타켓 예측
-> 8. 머신러닝과 보안 
+> 6. 분류와 예측, 그리고 코드 추상화: https://youtu.be/FyGXFg-sIoM
+> 7. 라이브러리 코드를 이용한 코딩 방법1: https://youtu.be/eLQwUcL5nUs
+> 8. 라이브러리 코드를 이용한 코딩 방법2: https://youtu.be/BmTBiXf0nXM
+> 9. 머신러닝과 보안: 
 
 ## 메모 - 베이즈 정리와 응용 (쉬운 설명!)
 > * https://www.youtube.com/watch?v=O2L2Uv9pdDA&t=282s
