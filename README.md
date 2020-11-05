@@ -46,9 +46,9 @@
 > 3. 코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
 > 4. 데이터 분석과 분류: https://youtu.be/MBKDtPl565k
 > 5. 쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
-> 6. 분류와 예측, 그리고 코드 추상화: https://youtu.be/FyGXFg-sIoM
-> 7. 라이브러리 코드를 이용한 코딩 방법1: https://youtu.be/eLQwUcL5nUs
-> 8. 라이브러리 코드를 이용한 코딩 방법2: https://youtu.be/BmTBiXf0nXM
+> 6. (New)분류와 예측, 그리고 코드 추상화: https://youtu.be/FyGXFg-sIoM
+> 7. (New)라이브러리 코드를 이용한 코딩 방법1: https://youtu.be/eLQwUcL5nUs
+> 8. (New)라이브러리 코드를 이용한 코딩 방법2: https://youtu.be/BmTBiXf0nXM
 > 9. 머신러닝과 보안: 
 
 ## 메모 - 베이즈 정리와 응용 (쉬운 설명!)
