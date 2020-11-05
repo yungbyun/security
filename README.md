@@ -34,11 +34,11 @@
 
 ### 침입탐지
 > * 정확도 99.9% 침입탐지 시스템
-> * https://www.kaggle.com/yungbyun/credit-card-fraud-analysis-simple
+> * 
 
 ### 신용카드 사기인식
 > * Anomaly detection 
-> * https://www.kaggle.com/yungbyun/anomaly-detection-credit-card-fraud-analysis/
+> * https://www.kaggle.com/yungbyun/credit-card-fraud-analysis-simple
 
 ## 강의(녹화 New!)
 > 1. 머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
