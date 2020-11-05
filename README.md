@@ -34,7 +34,7 @@
 
 ### 침입탐지
 > * 정확도 99.9% 침입탐지 시스템
-> * https://www.kaggle.com/abhaymudgal/intrusion-detection-system-accuracy-99-9
+> * https://www.kaggle.com/yungbyun/credit-card-fraud-analysis-simple
 
 ### 신용카드 사기인식
 > * Anomaly detection 
