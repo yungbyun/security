@@ -15,6 +15,17 @@
 > * 준비한 머신러닝 코드로 결과를 얻어보자.
 > * 논문을 써보자. 
 
+## 동영상 강의
+> 1. 머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
+> 2. 코드 추상화와 함수1: https://youtu.be/tFl6pjywwoc
+> 3. 코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
+> 4. 데이터 분석과 분류: https://youtu.be/MBKDtPl565k
+> 5. 쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
+> 6. (New)분류와 예측, 그리고 코드 추상화: https://youtu.be/FyGXFg-sIoM
+> 7. (New)라이브러리 코드를 이용한 코딩 방법1: https://youtu.be/eLQwUcL5nUs
+> 8. (New)라이브러리 코드를 이용한 코딩 방법2: https://youtu.be/BmTBiXf0nXM
+> 9. 머신러닝과 보안: 
+
 ## 강의자료(코드)
 
 ### 성별 분류하기
@@ -39,17 +50,6 @@
 ### 신용카드 사기인식
 > * Anomaly detection 
 > * https://www.kaggle.com/yungbyun/credit-card-fraud-analysis-simple
-
-## 강의(녹화 New!)
-> 1. 머신러닝, 무엇을 어떻게: https://youtu.be/UUs6TTIrjlA
-> 2. 코드 추상화와 함수1: https://youtu.be/tFl6pjywwoc
-> 3. 코드 추상화와 함수2: https://youtu.be/S7OpJ3HlI4Y
-> 4. 데이터 분석과 분류: https://youtu.be/MBKDtPl565k
-> 5. 쉽게 이해하는 머신러닝: https://youtu.be/p21j8buIPec
-> 6. (New)분류와 예측, 그리고 코드 추상화: https://youtu.be/FyGXFg-sIoM
-> 7. (New)라이브러리 코드를 이용한 코딩 방법1: https://youtu.be/eLQwUcL5nUs
-> 8. (New)라이브러리 코드를 이용한 코딩 방법2: https://youtu.be/BmTBiXf0nXM
-> 9. 머신러닝과 보안: 
 
 ## 메모 - 베이즈 정리와 응용 (쉬운 설명!)
 > * https://www.youtube.com/watch?v=O2L2Uv9pdDA&t=282s
